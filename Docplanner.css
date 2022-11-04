@@ -290,7 +290,7 @@ svg:hover{
 
 }
 
-.box1 img { 2c1l 2bt25cl 1em25cl 50 ana 50 ora 1l
+.box1 img {
     margin: 10px ;
     width: 35px;
     height: 40px;
@@ -330,12 +330,11 @@ margin-top: 20px;
 
 
     #background-image img{
-        position: absolute;
         margin-top: 310px;
         height: 300px;
         width: 500px;
         margin-left: 100px;
-        
+        position: absolute;
     }
 
     footer p{
@@ -351,6 +350,6 @@ margin-top: 20px;
     }
     #paragraphe p{
     border-top: 1px solid #eef2f2;
-    height: 123px;
+    height: 40px;
     width: 1519.2px;
     }
